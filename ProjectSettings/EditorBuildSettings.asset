@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SpartaMetaverse/Scenes/MainMap.unity
+    guid: 007bf93a8888167498d734fa1348e7cc
+  - enabled: 1
+    path: Assets/FlappyPlane/Scenes/FlappyPlaneScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/ThsStack/Scenes/TheStackScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/TopDownShooter/Scenes/TopDownMiniGame.unity
+    guid: 54faf848e1d75a64f90bbe87d421ff4c
+  m_configObjects: {}
