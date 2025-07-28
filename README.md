@@ -1,6 +1,6 @@
 필요한 패키지 - TextMeshPro, Input System
 폴더 구성 - Assetsd의 하위 폴더에 각 게임들의 폴더를 따로 만들었습니다
-          - SpartaMetaverse 폴더의 Scenes 아래에 MainMap 이 게임의 메인씬입니다.
+          - SpartaMetaverse 폴더의 Scenes -> MainMap 이 게임의 메인씬입니다.
           
  * 구현되어 있는 필수기능
 
